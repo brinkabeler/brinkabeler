@@ -12,4 +12,4 @@ I mainly use github to check out projects and sometimes provide feedback. I'm al
 Outside of work, you'll find me stolling around some city with a camera in my hand. Or checking out a new ramen spot. I live in Hamburg, Germany.
 
 
-Pronouns: he/him - <a href="https://twitter.com/brinkabeler"><img src="https://img.shields.io/twitter/follow/brinkabeler?label=Twitter&style=social" alt="Twitter"></a><a href="https://www.linkedin.com/in/brinkabeler"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+Pronouns: he/him
